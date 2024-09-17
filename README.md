@@ -1,6 +1,6 @@
 # Deep Learning Specialization
 
-This repository contains the notes I took while doing the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) course offered by DeepLearning.AI on Coursera.
+This repository contains the notes I took while doing the [Deep Learning Specialization](https://www.coursera.org/specializations/deep-learning) course offered by DeepLearning.AI on Coursera. My certificate can be found at [Deep Learning by DeepLearning.AI Certificate](https://coursera.org/share/6dc798b5172fbff49172a1b814490e39). Certificate earned at September 17, 2024.
 
 ## Course Syllabus
 
