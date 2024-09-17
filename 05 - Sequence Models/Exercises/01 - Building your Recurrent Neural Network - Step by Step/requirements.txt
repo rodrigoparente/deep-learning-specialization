@@ -1,0 +1,2 @@
+numpy==1.18.4
+solutions==0.0.2
