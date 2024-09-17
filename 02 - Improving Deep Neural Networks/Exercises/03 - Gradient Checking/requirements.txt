@@ -1,0 +1,2 @@
+dlai_tools==0.4.0
+numpy==1.18.4
